@@ -1,1 +1,2 @@
-
+## The Kaleidoscope
+The kaleidoscope was the initial overall design of the project. It was designed to be able to handle most stories so that we can have many options when choosing the scene. However, after some technical verification, the design was canceled due to its complexity and replaced by the current design. Still, we adapted the viewing experience concept of the kaleidoscope to the current design since it is a great idea to show the moment of a story.
