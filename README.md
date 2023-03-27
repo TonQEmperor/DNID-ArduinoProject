@@ -1,5 +1,5 @@
 # DNID Arduino-Project 
-### Spring 2023 | by Leyao Chen & Haoyi Wang
+### Spring 2023  by Leyao Chen & Haoyi Wang
 ###
 Hello there! 
 Welcome to the repository of our Arduino project. Here contains nearly all files that we created and used during the project.
